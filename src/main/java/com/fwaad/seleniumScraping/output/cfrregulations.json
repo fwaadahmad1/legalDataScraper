@@ -1,0 +1,545 @@
+[
+  {
+    "title": ". General Provisions",
+    "url": "https://codes.findlaw.com/cfr/title-1-general-provisions/",
+    "chapters": [
+      "Chapter I. Administrative Committee of the Federal Register",
+      "Chapter II. Office of the Federal Register",
+      "Chapter III. Administrative Conference of the United States",
+      "Chapter IV. Miscellaneous Agencies",
+      "Chapter VI. National Capital Planning Commission"
+    ]
+  },
+  {
+    "title": ". Grants and Agreements",
+    "url": "https://codes.findlaw.com/cfr/title-2-grants-and-agreements/",
+    "chapters": [
+      "Subtitle A. Office of Management and Budget Guidance for Grants and Agreements",
+      "Subtitle B. Federal Agency Regulations for Grants and Agreements"
+    ]
+  },
+  {
+    "title": ". The President",
+    "url": "https://codes.findlaw.com/cfr/title-3-the-president/",
+    "chapters": [
+      "Chapter I. Executive Office of the President"
+    ]
+  },
+  {
+    "title": ". Accounts",
+    "url": "https://codes.findlaw.com/cfr/title-4-accounts/",
+    "chapters": [
+      "Chapter I. Government Accountability Office"
+    ]
+  },
+  {
+    "title": ". Administrative Personnel",
+    "url": "https://codes.findlaw.com/cfr/title-5-administrative-personnel/",
+    "chapters": [
+      "Chapter I. Office of Personnel Management",
+      "Chapter II. Merit Systems Protection Board",
+      "Chapter III. Office of Management and Budget",
+      "Chapter IV. Office of Personnel Management and Office of the Director of National Intelligence",
+      "Chapter V. The International Organizations Employees Loyalty Board",
+      "Chapter VI. Federal Retirement Thrift Investment Board",
+      "Chapter VII. Reserved",
+      "Chapter VIII. Office of Special Counsel",
+      "Chapter IX. Appalachian Regional Commission",
+      "Chapter XI. Armed Forces Retirement Home",
+      "Chapter XIV. Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+      "Chapter XV. Reserved",
+      "Chapter XVI. Office of Government Ethics",
+      "Chapter XXI. Department of the Treasury",
+      "Chapter XXII. Federal Deposit Insurance Corporation",
+      "Chapter XXIII. Department of Energy",
+      "Chapter XXIV. Federal Energy Regulatory Commission",
+      "Chapter XXV. Department of the Interior",
+      "Chapter XXVI. Department of Defense",
+      "Chapter XXVIII. Department of Justice",
+      "Chapter XXIX. Federal Communications Commission",
+      "Chapter XXX. Farm Credit System Insurance Corporation",
+      "Chapter XXXI. Farm Credit Administration",
+      "Chapter XXXIII. Us International Development Finance Corporation",
+      "Chapter XXXIV. Securities and Exchange Commission",
+      "Chapter XXXV. Office of Personnel Management",
+      "Chapter XXXVI. Department of Homeland Security",
+      "Chapter XXXVII. Federal Election Commission",
+      "Chapter XL. Interstate Commerce Commission",
+      "Chapter XLI. Commodity Futures Trading Commission",
+      "Chapter XLII. Department of Labor",
+      "Chapter XLIII. National Science Foundation",
+      "Chapter XLV. Department of Health and Human Services",
+      "Chapter XLVI. Postal Rate Commission",
+      "Chapter XLVII. Federal Trade Commission",
+      "Chapter XLVIII. Nuclear Regulatory Commission",
+      "Chapter XLIX. Federal Labor Relations Authority",
+      "Chapter L. Department of Transportation",
+      "Chapter LII. Export–Import Bank of the United States",
+      "Chapter LIII. Department of Education",
+      "Chapter LIV. Environmental Protection Agency",
+      "Chapter LV. National Endowment for the Arts",
+      "Chapter LVI. National Endowment for the Humanities",
+      "Chapter LVII. General Services Administration",
+      "Chapter LVIII. Board of Governors of the Federal Reserve System",
+      "Chapter LIX. National Aeronautics and Space Administration",
+      "Chapter LX. United States Postal Service",
+      "Chapter LXI. National Labor Relations Board",
+      "Chapter LXII. Equal Employment Opportunity Commission",
+      "Chapter LXIII. Inter–American Foundation",
+      "Chapter LXIV. Merit Systems Protection Board",
+      "Chapter LXV. Department of Housing and Urban Development",
+      "Chapter LXVI. National Archives and Records Administration",
+      "Chapter LXVII. Institute of Museum and Library Services",
+      "Chapter LXVIII. Commission on Civil Rights",
+      "Chapter LXIX. Tennessee Valley Authority",
+      "Chapter LXX. Court Services and Offender Supervision Agency for the District of Columbia",
+      "Chapter LXXI. Consumer Product Safety Commission",
+      "Chapter LXXIII. Department of Agriculture",
+      "Chapter LXXIV. Federal Mine Safety and Health Review Commission",
+      "Chapter LXXVI. Federal Retirement Thrift Investment Board",
+      "Chapter LXXVII. Office of Management and Budget",
+      "Chapter LXXX. Federal Housing Finance Agency",
+      "Chapter LXXXIII. Special Inspector General for Afghanistan Reconstruction",
+      "Chapter LXXXIV. Bureau of Consumer Financial Protection",
+      "Chapter LXXXVI. National Credit Union Administration",
+      "Chapter XCVII. Department of Homeland Security Human Resources Management System (Department of Homeland Security—Office of Personnel Management)",
+      "Chapter XCVIII. Council of the Inspectors General on Integrity and Efficiency",
+      "Chapter XCIX. Military Compensation and Retirement Modernization Commission",
+      "Chapter C. National Council on Disability",
+      "Chapter CI. National Mediation Board"
+    ]
+  },
+  {
+    "title": ". Domestic Security",
+    "url": "https://codes.findlaw.com/cfr/title-6-domestic-security/",
+    "chapters": [
+      "Chapter I. Department of Homeland Security, Office of the Secretary",
+      "Chapter X. Privacy and Civil Liberties Oversight Board"
+    ]
+  },
+  {
+    "title": ". Agriculture",
+    "url": "https://codes.findlaw.com/cfr/title-7-agriculture/",
+    "chapters": [
+      "Subtitle A. Office of the Secretary of Agriculture",
+      "Subtitle B. Regulations of the Department of Agriculture"
+    ]
+  },
+  {
+    "title": ". Aliens and Nationality",
+    "url": "https://codes.findlaw.com/cfr/title-8-aliens-and-nationality/",
+    "chapters": [
+      "Chapter I. Department of Homeland Security",
+      "Chapter V. Executive Office for Immigration Review, Department of Justice"
+    ]
+  },
+  {
+    "title": ". Animals and Animal Products",
+    "url": "https://codes.findlaw.com/cfr/title-9-animals-and-animal-products/",
+    "chapters": [
+      "Chapter I. Animal and Plant Health Inspection Service, Department of Agriculture",
+      "Chapter II. Agricultural Marketing Service (Fair Trade Practices Program), Department of Agriculture",
+      "Chapter III. Food Safety and Inspection Service, Department of Agriculture"
+    ]
+  },
+  {
+    "title": ". Energy",
+    "url": "https://codes.findlaw.com/cfr/title-10-energy/",
+    "chapters": [
+      "Chapter I. Nuclear Regulatory Commission",
+      "Chapter II. Department of Energy",
+      "Chapter III. Department of Energy",
+      "Chapter X. Department of Energy (General Provisions)",
+      "Chapter XI. Reserved",
+      "Chapter XIII. Nuclear Waste Technical Review Board",
+      "Chapter XV. Reserved",
+      "Chapter XVII. Defense Nuclear Facilities Safety Board",
+      "Chapter XVIII. Northeast Interstate Low–Level Radioactive Waste Commission"
+    ]
+  },
+  {
+    "title": ". Federal Elections",
+    "url": "https://codes.findlaw.com/cfr/title-11-federal-elections/",
+    "chapters": [
+      "Chapter I. Federal Election Commission",
+      "Chapter II. Election Assistance Commission"
+    ]
+  },
+  {
+    "title": ". Commodity and Securities Exchanges",
+    "url": "https://codes.findlaw.com/cfr/title-17-commodity-and-securities-exchanges/",
+    "chapters": [
+      "Chapter I. Commodity Futures Trading Commission",
+      "Chapter II. Securities and Exchange Commission",
+      "Chapter IV. Department of the Treasury"
+    ]
+  },
+  {
+    "title": ". Conservation of Power and Water Resources",
+    "url": "https://codes.findlaw.com/cfr/title-18-conservation-of-power-and-water-resources/",
+    "chapters": [
+      "Chapter I. Federal Energy Regulatory Commission, Department of Energy",
+      "Chapter III. Delaware River Basin Commission",
+      "Chapter VI. Water Resources Council",
+      "Chapter VIII. Susquehanna River Basin Commission",
+      "Chapter XIII. Tennessee Valley Authority"
+    ]
+  },
+  {
+    "title": ". Customs Duties",
+    "url": "https://codes.findlaw.com/cfr/title-19-customs-duties/",
+    "chapters": [
+      "Chapter I. U.S. Customs and Border Protection, Department of Homeland Security;  Department of the Treasury",
+      "Chapter II. United States International Trade Commission",
+      "Chapter III. International Trade Administration, Department of Commerce"
+    ]
+  },
+  {
+    "title": ". Employees' Benefits",
+    "url": "https://codes.findlaw.com/cfr/title-20-employees-benefits/",
+    "chapters": [
+      "Chapter I. Office of Workers' Compensation Programs, Department of Labor",
+      "Chapter II. Railroad Retirement Board",
+      "Chapter III. Social Security Administration",
+      "Chapter IV. Employees' Compensation Appeals Board, Department of Labor",
+      "Chapter V. Employment and Training Administration, Department of Labor",
+      "Chapter VI. Office of Workers' Compensation Programs, Department of Labor",
+      "Chapter VII. Benefits Review Board, Department of Labor",
+      "Chapter VIII. Joint Board for the Enrollment of Actuaries",
+      "Chapter IX. Office of the Assistant Secretary for Veterans' Employment and Training, Department of Labor"
+    ]
+  },
+  {
+    "title": ". Food and Drugs",
+    "url": "https://codes.findlaw.com/cfr/title-21-food-and-drugs/",
+    "chapters": [
+      "Chapter I. Food and Drug Administration, Department of Health and Human Services",
+      "Chapter II. Drug Enforcement Administration, Department of Justice",
+      "Chapter III. Office of National Drug Control Policy"
+    ]
+  },
+  {
+    "title": ". Foreign Relations",
+    "url": "https://codes.findlaw.com/cfr/title-22-foreign-relations/",
+    "chapters": [
+      "Chapter I. Department of State",
+      "Chapter II. Agency for International Development",
+      "Chapter III. Peace Corps",
+      "Chapter IV. International Joint Commission, United States and Canada",
+      "Chapter V. United States Agency for Global Media",
+      "Chapter VI. Reserved",
+      "Chapter VII. Us International Development Finance Corporation",
+      "Chapter IX. Foreign Service Grievance Board Regulations",
+      "Chapter X. Inter–American Foundation",
+      "Chapter XI. International Boundary and Water Commission, United States and Mexico, United States Section",
+      "Chapter XII. United States International Development Cooperation Agency",
+      "Chapter XIII. Millennium Challenge Corporation",
+      "Chapter XIV. Foreign Service Labor Relations Board;  Federal Labor Relations Authority;  General Counsel of the Federal Labor Relations Authority;  and the Foreign Service Impasse Disputes Panel",
+      "Chapter XV. African Development Foundation",
+      "Chapter XVI. Japan–United States Friendship Commission",
+      "Chapter XVII. United States Institute of Peace"
+    ]
+  },
+  {
+    "title": ". Highways",
+    "url": "https://codes.findlaw.com/cfr/title-23-highways/",
+    "chapters": [
+      "Chapter I. Federal Highway Administration, Department of Transportation",
+      "Chapter II. National Highway Traffic Safety Administration and Federal Highway Administration, Department of Transportation",
+      "Chapter III. — National Highway Traffic Safety Administration, Department of Transportation"
+    ]
+  },
+  {
+    "title": ". Housing and Urban Development",
+    "url": "https://codes.findlaw.com/cfr/title-24-housing-and-urban-development/",
+    "chapters": [
+      "Subtitle A. Office of the Secretary, Department of Housing and Urban Development",
+      "Subtitle B. Regulations Relating to Housing and Urban Development"
+    ]
+  },
+  {
+    "title": ". Indians",
+    "url": "https://codes.findlaw.com/cfr/title-25-indians/",
+    "chapters": [
+      "Chapter I. Bureau of Indian Affairs, Department of the Interior",
+      "Chapter II. Indian Arts and Crafts Board, Department of the Interior",
+      "Chapter III. National Indian Gaming Commission",
+      "Chapter IV. The Office of Navajo and Hopi Indian Relocation",
+      "Chapter V. Bureau of Indian Affairs, Department of the Interior, and Indian Health Service, Department of Health and Human Services",
+      "Chapter VI. Office of the Assistant Secretary—Indian Affairs, Department of the Interior",
+      "Chapter VII. Office of the Special Trustee for American Indians, Department of the Interior"
+    ]
+  },
+  {
+    "title": ". Internal Revenue",
+    "url": "https://codes.findlaw.com/cfr/title-26-internal-revenue/",
+    "chapters": [
+      "Chapter I. Internal Revenue Service, Department of the Treasury"
+    ]
+  },
+  {
+    "title": ". Alcohol, Tobacco Products and Firearms",
+    "url": "https://codes.findlaw.com/cfr/title-27-alcohol-tobacco-products-and-firearms/",
+    "chapters": [
+      "Chapter I. Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury",
+      "Chapter II. Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice"
+    ]
+  },
+  {
+    "title": ". Judicial Administration",
+    "url": "https://codes.findlaw.com/cfr/title-28-judicial-administration/",
+    "chapters": [
+      "Chapter I. Department of Justice",
+      "Chapter III. Federal Prison Industries, Inc., Department of Justice",
+      "Chapter V. Bureau of Prisons, Department of Justice",
+      "Chapter VI. Offices of Independent Counsel, Department of Justice",
+      "Chapter VII. Office of Independent Counsel",
+      "Chapter VIII. Court Services and Offender Supervision Agency for the District of Columbia",
+      "Chapter IX. National Crime Prevention and Privacy Compact Council",
+      "Chapter XI. Department of Justice and Department of State"
+    ]
+  },
+  {
+    "title": ". Labor",
+    "url": "https://codes.findlaw.com/cfr/title-29-labor/",
+    "chapters": [
+      "Subtitle A. Office of the Secretary of Labor",
+      "Subtitle B. Regulations Relating to Labor"
+    ]
+  },
+  {
+    "title": ". Mineral Resources",
+    "url": "https://codes.findlaw.com/cfr/title-30-mineral-resources/",
+    "chapters": [
+      "Chapter I. Mine Safety and Health Administration, Department of Labor",
+      "Chapter II. Bureau of Safety and Environmental Enforcement, Department of the Interior",
+      "Chapter IV. Geological Survey, Department of the Interior",
+      "Chapter V. Bureau of Ocean Energy Managment, Department of the Interior",
+      "Chapter VI. Reserved",
+      "Chapter VII. Office of Surface Mining Reclamation and Enforcement, Department of the Interior",
+      "Chapter XII. Office of Natural Resources Revenue, Department of the Interior"
+    ]
+  },
+  {
+    "title": ". Money and Finance–Treasury",
+    "url": "https://codes.findlaw.com/cfr/title-31-money-and-finance-treasury/",
+    "chapters": [
+      "Subtitle A. Office of the Secretary of the Treasury",
+      "Subtitle B. Regulations Relating to Money and Finance"
+    ]
+  },
+  {
+    "title": ". National Defense",
+    "url": "https://codes.findlaw.com/cfr/title-32-national-defense/",
+    "chapters": [
+      "Subtitle A. Department of Defense",
+      "Subtitle B. Other Regulations Relating to National Defense"
+    ]
+  },
+  {
+    "title": ". Navigation and Navigable Waters",
+    "url": "https://codes.findlaw.com/cfr/title-33-navigation-and-navigable-waters/",
+    "chapters": [
+      "Chapter I. Coast Guard, Department of Homeland Security",
+      "Chapter II. Corps of Engineers, Department of the Army",
+      "Chapter IV. Saint Lawrence Seaway Development Corporation, Department of Transportation",
+      "Chapter IV. Great Lakes St. Lawrence Seaway Development Corporation, Department of Transportation"
+    ]
+  },
+  {
+    "title": ". Education",
+    "url": "https://codes.findlaw.com/cfr/title-34-education/",
+    "chapters": [
+      "Subtitle A. Office of the Secretary, Department of Education",
+      "Subtitle B. Regulations of the Offices of the Department of Education",
+      "Subtitle C. Regulations Relating to Education"
+    ]
+  },
+  {
+    "title": ". Parks, Forests, and Public Property",
+    "url": "https://codes.findlaw.com/cfr/title-36-parks-forests-and-public-property/",
+    "chapters": [
+      "Chapter I. National Park Service, Department of the Interior",
+      "Chapter II. Forest Service, Department of Agriculture",
+      "Chapter III. Corps of Engineers, Department of the Army",
+      "Chapter IV. American Battle Monuments Commission",
+      "Chapter V. Smithsonian Institution",
+      "Chapter VII. Library of Congress",
+      "Chapter VIII. Advisory Council on Historic Preservation",
+      "Chapter IX. Pennsylvania Avenue Development Corporation",
+      "Chapter X. Presidio Trust",
+      "Chapter XI. Architectural and Transportation Barriers Compliance Board",
+      "Chapter XII. National Archives and Records Administration",
+      "Chapter XIV. Reserved",
+      "Chapter XV. Oklahoma City National Memorial Trust",
+      "Chapter XVI. Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation"
+    ]
+  },
+  {
+    "title": ". Patents, Trademarks, and Copyrights",
+    "url": "https://codes.findlaw.com/cfr/title-37-patents-trademarks-and-copyrights/",
+    "chapters": [
+      "Chapter I. United States Patent and Trademark Office, Department of Commerce",
+      "Chapter II. U.S. Copyright Office, Library of Congress",
+      "Chapter III. Copyright Royalty Board, Library of Congress",
+      "Chapter IV. National Institute of Standards and Technology, Department of Commerce",
+      "Chapter V. Reserved"
+    ]
+  },
+  {
+    "title": ". Pensions, Bonuses, and Veterans' Relief",
+    "url": "https://codes.findlaw.com/cfr/title-38-pensions-bonuses-and-veterans-relief/",
+    "chapters": [
+      "Chapter I. Department of Veterans Affairs",
+      "Chapter II. Armed Forces Retirement Home"
+    ]
+  },
+  {
+    "title": ". Postal Service",
+    "url": "https://codes.findlaw.com/cfr/title-39-postal-service/",
+    "chapters": [
+      "Chapter I. United States Postal Service",
+      "Chapter III. Postal Regulatory Commission"
+    ]
+  },
+  {
+    "title": ". Protection of Environment",
+    "url": "https://codes.findlaw.com/cfr/title-40-protection-of-environment/",
+    "chapters": [
+      "Chapter I. Environmental Protection Agency",
+      "Chapter IV. Environmental Protection Agency and Department of Justice",
+      "Chapter V. Council on Environmental Quality",
+      "Chapter VI. Chemical Safety and Hazard Investigation Board",
+      "Chapter VII. Environmental Protection Agency and Department of Defense;  Uniform National Discharge Standards for Vessels of the Armed Forces",
+      "Chapter VIII. Gulf Coast Ecosystem Restoration Council",
+      "Chapter IX. Federal Permitting Improvement Steering Council"
+    ]
+  },
+  {
+    "title": ". Public Contracts and Property Management",
+    "url": "https://codes.findlaw.com/cfr/title-41-public-contracts-and-property-management/",
+    "chapters": [
+      "Subtitle A. Federal Procurement Regulations System",
+      "Subtitle B. Other Provisions Relating to Public Contracts",
+      "Subtitle C. Federal Property Management Regulations System",
+      "Subtitle E. Federal Information Resources Management Regulations System",
+      "Subtitle F. Federal Travel Regulation System"
+    ]
+  },
+  {
+    "title": ". Public Health",
+    "url": "https://codes.findlaw.com/cfr/title-42-public-health/",
+    "chapters": [
+      "Chapter I. Public Health Service, Department of Health and Human Services",
+      "Chapter IV. Centers for Medicare & Medicaid Services, Department of Health and Human Services",
+      "Chapter V. Office of Inspector General—Health Care, Department of Health and Human Services"
+    ]
+  },
+  {
+    "title": ". Public Lands:  Interior",
+    "url": "https://codes.findlaw.com/cfr/title-43-public-lands-interior/",
+    "chapters": [
+      "Subtitle A. Office of the Secretary of the Interior",
+      "Subtitle B. Regulations Relating to Public Lands"
+    ]
+  },
+  {
+    "title": ". Emergency Management and Assistance",
+    "url": "https://codes.findlaw.com/cfr/title-44-emergency-management-and-assistance/",
+    "chapters": [
+      "Chapter I. Federal Emergency Management Agency, Department of Homeland Security",
+      "Chapter IV. Department of Commerce and Department of Transportation"
+    ]
+  },
+  {
+    "title": ". Public Welfare",
+    "url": "https://codes.findlaw.com/cfr/title-45-public-welfare/",
+    "chapters": [
+      "Subtitle A. Department of Health and Human Services",
+      "Subtitle B. Regulations Relating to Public Welfare"
+    ]
+  },
+  {
+    "title": ". Shipping",
+    "url": "https://codes.findlaw.com/cfr/title-46-shipping/",
+    "chapters": [
+      "Chapter I. Coast Guard, Department of Homeland Security",
+      "Chapter II. Maritime Administration, Department of Transportation",
+      "Chapter III. Coast Guard (Great Lakes Pilotage), Department of Homeland Security",
+      "Chapter IV. Federal Maritime Commission"
+    ]
+  },
+  {
+    "title": ". Telecommunication",
+    "url": "https://codes.findlaw.com/cfr/title-47-telecommunication/",
+    "chapters": [
+      "Chapter I. Federal Communications Commission",
+      "Chapter II. Office of Science and Technology Policy and National Security Council",
+      "Chapter III. National Telecommunications and Information Administration, Department of Commerce",
+      "Chapter IV. National Telecommunications and Information Administration, Department of Commerce, and National Highway Traffic Safety Administration, Department of Transportation",
+      "Chapter V. The First Responder Network Authority(Parts 500–599)"
+    ]
+  },
+  {
+    "title": ". Federal Acquisition Regulations System",
+    "url": "https://codes.findlaw.com/cfr/title-48-federal-acquisition-regulations-system/",
+    "chapters": [
+      "Chapter 1. Federal Acquisition Regulation",
+      "Chapter 2. Defense Acquisition Regulations System, Department of Defense",
+      "Chapter 3. Health and Human Services",
+      "Chapter 3. Health and Human Services",
+      "Chapter 4. Department of Agriculture",
+      "Chapter 5. General Services Administration",
+      "Chapter 6. Department of State",
+      "Chapter 7. U.S. Agency for International Development",
+      "Chapter 8. Department of Veterans Affairs",
+      "Chapter 9. Department of Energy",
+      "Chapter 10. Department of the Treasury",
+      "Chapter 12. Department of Transportation",
+      "Chapter 13. Department of Commerce",
+      "Chapter 14. Department of the Interior",
+      "Chapter 15. Environmental Protection Agency",
+      "Chapter 16. Office of Personnel Management Federal Employees Health Benefits Acquisition Regulation",
+      "Chapter 17. Office of Personnel Management",
+      "Chapter 18. National Aeronautics and Space Administration",
+      "Chapter 19. Broadcasting Board of Governors",
+      "Chapter 20. Nuclear Regulatory Commission",
+      "Chapter 21. Office of Personnel Management, Federal Employees Group Life Insurance Federal Acquisition Regulation",
+      "Chapter 22. Reserved",
+      "Chapter 23. Social Security Administration",
+      "Chapter 24. Department of Housing and Urban Development",
+      "Chapter 25. National Science Foundation",
+      "Chapter 28. Department of Justice",
+      "Chapter 29. Department of Labor",
+      "Chapter 30. Department of Homeland Security, Homeland Security Acquisition Regulation (HSAR)",
+      "Chapter 34. Department of Education Acquisition Regulation",
+      "Chapter 35. Reserved",
+      "Chapter 52. Department of the Navy Acquisition Regulations",
+      "Chapter 53. Department of the Air Force Federal Acquisition Regulation Supplement",
+      "Chapter 54. Defense Logistics Agency, Department of Defense",
+      "Chapter 57. African Development Foundation",
+      "Chapter 61. Civilian Board of Contract Appeals, General Services Administration",
+      "Chapter 99. Cost Accounting Standards Board, Office of Federal Procurement Policy, Office of Management and Budget"
+    ]
+  },
+  {
+    "title": ". Transportation",
+    "url": "https://codes.findlaw.com/cfr/title-49-transportation/",
+    "chapters": [
+      "Subtitle A. Office of the Secretary of Transportation",
+      "Subtitle B. Other Regulations Relating to Transportation"
+    ]
+  },
+  {
+    "title": ". Wildlife and Fisheries",
+    "url": "https://codes.findlaw.com/cfr/title-50-wildlife-and-fisheries/",
+    "chapters": [
+      "Chapter I. United States Fish and Wildlife Service, Department of the Interior",
+      "Chapter II. National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce",
+      "Chapter III. International Fishing and Related Activities",
+      "Chapter IV. Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce);  Endangered Species Committee Regulations",
+      "Chapter V. Marine Mammal Commission",
+      "Chapter VI. Fishery Conservation and Management, National Oceanic and Atmospheric Administration, Department of Commerce"
+    ]
+  }
+]
